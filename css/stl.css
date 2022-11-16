@@ -1,0 +1,139 @@
+body{
+    
+    background-color: black;
+    margin: 0 ;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.h11{
+    color: white;
+
+    
+}
+.logo{
+    float: left;
+}
+ul{
+    float: right;
+    list-style: none ;
+}
+li{
+float: left;
+padding: 10px; 
+font-size: 25px;
+color: white;
+}
+nav{
+    height: 75px;
+    background: linear-gradient(to bottom right, rgb(1, 1, 63), pink);
+}
+#navbar{
+    height: 75px;
+}
+/* .gradient-div {
+    display: flex;
+    align-items: center;
+    width: 250px;
+    height:150px;
+    margin: auto;
+    position: relative;
+    
+    color: #8F8F8F;
+    background: #fff;
+    background-clip: padding-box;
+    border-radius: 10px;
+ }
+ .gradient-div img{
+    width: 100%;
+    height: 100%;
+ }
+  .gradient-div:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    margin: -10px;
+    border-radius: inherit;
+    background: linear-gradient(230.46deg, #5F5FF3 -2.98%, #B67DFF 68.14%, #FF83CD 104.54%);
+ }
+
+ .gradient-div1 {
+    display:inline-block;
+    align-items: flex-start;
+    width: 250px;
+    height:150px;
+    margin: auto;
+    position: relative;
+    
+    color: #8F8F8F;
+    background: #fff;
+    background-clip: padding-box;
+    border-radius: 10px;
+ }
+ .gradient-div1 img{
+    width: 100%;
+    height: 100%;
+ }
+  .gradient-div1:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    margin: -10px;
+    border-radius: inherit;
+    background: linear-gradient(230.46deg, #5F5FF3 -2.98%, #B67DFF 68.14%, #FF83CD 104.54%);
+ } */
+
+ section{
+    display:;
+    justify-self: center;
+ }
+div{
+    width: 100px;
+    height: 100px;
+    margin: 3px;
+    display: inline;
+}
+.gradient-div2 {
+    display:inline-block;
+    align-items:baseline;
+    
+    white-space: nowrap;
+    width: 250px;
+    height:150px;
+    margin: auto;
+    position: relative;
+    
+    color: #8F8F8F;
+    background: #fff;
+    background-clip: padding-box;
+    border-radius: 10px;
+ }
+ .gradient-div2 img{
+    width: 100%;
+    height: 100%;
+ }
+  .gradient-div2:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    margin: -10px;
+    border-radius: inherit;
+    background: linear-gradient(230.46deg, #5F5FF3 -2.98%, #B67DFF 68.14%, #FF83CD 104.54%);
+ }
+
+
